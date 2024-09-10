@@ -1,6 +1,11 @@
 # BaseDatosProject
 Repositorio Sobre Nuestro Proyecto Base de Datos 1
 
+# Integrantes
+Anthony de Jesus Mateo Reyes,
+Diego Jose Hernández Castellanos, 
+Sergio Antonio Coronado Delgado.
+
 # Sistema de Compra y Facturación
 
 Este proyecto es un **sistema de compra y facturación** desarrollado utilizando el framework **Django** para el backend y **PostgreSQL** como base de datos. El sistema permite a los usuarios realizar compras, gestionar productos y generar facturas de manera automatizada. Está diseñado para pequeñas y medianas empresas que buscan una solución eficiente para manejar transacciones de compra y generar reportes de facturación.
